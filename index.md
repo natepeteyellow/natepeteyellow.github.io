@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [US Army Corps of Engineers - Sea Level Tracker](https://climate.sec.usace.army.mil/slr_app/)
-<img src="images/sea_level_tracker.jpg?raw=true"/>
+<img src="images/sea_level_tracker.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
