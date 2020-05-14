@@ -21,11 +21,12 @@
 ---
 [Impacts of Millennial Student Loan Debt on Transportation Choices](/pdf/sample_presentation.pdf)
 <br></br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dot_paper.png?raw=true"/>
 
 ---
 [Personal Connectedness Promotes Heroism](https://nytimesineducation.com/spotlight/personal-connectedness-promotes-heroism/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br></br>
+<img src="images/nyt-ineducation-logo.png?raw=true"/>
 
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
