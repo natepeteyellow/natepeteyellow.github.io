@@ -2,11 +2,8 @@ title: Nathen Huang # your name (or website title) here
 logo: "/images/portrait.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <b> Hi there, I'm Nathen. Thanks for visiting my page!
-  <br><br>
-  <i style="color:red"> This page is still under construction, so please check back soon! </i></b>
   <h2>About me:</h2>
-  I'm a quantitative social scientist based in Washington, DC, driven by my research interests and my work. I am fascinated with interpersonal dynamics and leveraging statistics to model people's behaviors, social networks, and interactions. In a previous life I studied studied experimental psychology and applied statistics at Columbia; these days I'm intrigued by traditional statistics and theory-driven machine learning.
+  Hi, I'm a Nathen, a quantitative social scientist based in Washington, DC. Outside my day job, I'm driven by my research interests and my passion projects. I am fascinated with interpersonal dynamics and leveraging statistics to model people's behaviors, social networks, and interactions. In a previous life I studied studied experimental psychology and applied statistics at Columbia; these days I'm intrigued by traditional statistics and theory-driven machine learning.
   <a href="https://www.linkedin.com/in/nathenphuang/">Check out my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
