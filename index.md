@@ -6,9 +6,9 @@
 
 - [Differentially Private Learning](https://github.com/natepeteyellow/DPLearning)
 - [Diseased Leaf Detection](http://example.com/) <i style="color:red;"> Project coming soon! </i>
-<!-- - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
+<!-- - [Project 3 Title](http://example.com/) -->
+<!-- - [Project 4 Title](http://example.com/) -->
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 
