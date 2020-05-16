@@ -5,12 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b> Hi there, I'm Nathen. Thanks for visiting my page!
   <br><br>
   <i style="color:red"> This page is still under construction, so please check back soon! </i></b>
-  <br><br>
   <h2>About me:</h2>
-  I'm a quantitative social scientist based in Washington, DC. My day job is being a data scientist for KPMG's Digital Lighthouse practice, where I deliver analytical solutions to federal clients.
-  <br><br>
-  Outside the office I am driven by my research interests and my work. I am fascinated with interpersonal dynamics and leveraging statistics to model people's behaviors, social networks, and interactions. In a previous life I studied studied experimental psychology and applied statistics at Columbia; these days I'm intrigued by traditional statistics and theory-driven machine learning.
-  <br><br>
+  I'm a quantitative social scientist based in Washington, DC. I am driven by my research interests and my work. I am fascinated with interpersonal dynamics and leveraging statistics to model people's behaviors, social networks, and interactions. In a previous life I studied studied experimental psychology and applied statistics at Columbia; these days I'm intrigued by traditional statistics and theory-driven machine learning.
   <a href="https://www.linkedin.com/in/nathenphuang/">Check out my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
