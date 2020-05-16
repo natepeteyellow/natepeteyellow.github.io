@@ -5,7 +5,7 @@
 ### Data Science Projects
 
 - [Differentially Private Learning](https://github.com/natepeteyellow/DPLearning)
-- [Diseased Leaf Detection](http://example.com/) <i style="color:red;"> Project coming soon! </i>
+- [Diseased Leaf Detection](https://github.com/natepeteyellow/Disease-Leaf-Detection) <i style="color:red;">
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
