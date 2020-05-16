@@ -14,17 +14,17 @@
 
 ### Public Projects, Publications, Articles
 
-[US Army Corps of Engineers - Sea Level Tracker](https://climate.sec.usace.army.mil/slr_app/)
+- [US Army Corps of Engineers - Sea Level Tracker](https://climate.sec.usace.army.mil/slr_app/)
 <br><br>
 <img src="images/sea_level_tracker.png?raw=true"/>
 
 ---
-[Impacts of Millennial Student Loan Debt on Transportation Choices](/pdf/sample_presentation.pdf)
+- [Impacts of Millennial Student Loan Debt on Transportation Choices](/pdf/sample_presentation.pdf)
 <br><br>
 <img src="images/dot_paper.png?raw=true"/>
 
 ---
-[Personal Connectedness Promotes Heroism](https://nytimesineducation.com/spotlight/personal-connectedness-promotes-heroism/)
+- [Personal Connectedness Promotes Heroism](https://nytimesineducation.com/spotlight/personal-connectedness-promotes-heroism/)
 <br><br>
 <img src="images/nyt-ineducation-logo.png?raw=true"/>
 
