@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hi there! I'm Nathen- a quantitative social scientist based in Washington, DC. By day, I'm a consulting data scientist at KPMG. By night, I'm passionate about studying social problems using traditional statistics and theory-driven machine learning.
   <br><br>
   Check out my:
-  <br><br>
+  <br>
   <a href="/pdf/resume_05_15_20.pdf">CV</a> | <a href="https://www.linkedin.com/in/nathenphuang/">LinkedIn</a> | <a href="https://www.github.com/natepeteyellow">GitHub</a> 
   
 theme: jekyll-theme-minimal
